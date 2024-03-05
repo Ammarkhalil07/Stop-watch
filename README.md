@@ -1,4 +1,4 @@
-# Stop-watch
+# Stop-watch ATmega16
 
 Use Timer1 CTC Mode to count the time for the stop watch.
 INT0(Falling edge using the internal pull up) --> reset the stop watch
